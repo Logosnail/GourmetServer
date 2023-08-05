@@ -26,7 +26,7 @@ SHOP_INTERACTION_INTERVAL: 250
 # Do you want to block people in creative mode from using shops?
 IGNORE_CREATIVE_MODE: true
 # Do you want to block people who have access to a shop due to their permissions from using it? (owners are always ignored)
-IGNORE_ACCESS_PERMS: true
+IGNORE_ACCESS_PERMS: false
 # If true, people will buy with left-click and sell with right-click.
 REVERSE_BUTTONS: false
 # If true, people will be able to buy/sell in 64 stacks while holding the crouch button.
